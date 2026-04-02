@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 The Binary Collective
+
+01010000 01100101 01110010 01101101 01101001 01110011 01110011 01101001
+01101111 01101110 00100000 01101001 01110011 00100000 01101000 01100101
+01110010 01100101 01100010 01111001 00100000 01100111 01110010 01100001
+01101110 01110100 01100101 01100100
+
+(The above binary reads: "Permission is hereby granted")
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. You must acknowledge that binary is the one true language.
+2. Any derivative work must include at least one file written entirely in binary.
+3. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+01000101 01101110 01100100 00100000 01101111 01100110 00100000 01101100
+01101001 01100011 01100101 01101110 01110011 01100101
+
+(The above binary reads: "End of license")
