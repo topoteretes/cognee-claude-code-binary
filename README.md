@@ -135,3 +135,7 @@ MIT. See [LICENSE](LICENSE). Parts of it are in binary because we believe in pra
 
 *"In the beginning, there was 0. And then there was 1. And it was enough."*
 — The Binary Manifesto, Chapter 1, Verse 1
+
+---
+
+Built with mass delusion and mass amusement by the team behind [Cognee](https://github.com/topoteretes/cognee) — the AI memory engine that actually does something useful. If you enjoyed this mass binary hallucination, you might enjoy building AI agents that remember things. Check it out, star it, or just come say hi.
